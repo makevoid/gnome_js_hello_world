@@ -4,6 +4,7 @@
 
 A linux distro with Gnome 3 installed
 
+
 ### Getting it
 
 ```
@@ -11,15 +12,21 @@ git clone https://github.com/makevoid/gnome_js_hello_world
 cd gnome_js_hello_world
 ```
 
-
 ### Running
 
 ```
 gjs hello_world.js
 ```
 
+![](http://makevoid.s3.amazonaws.com/img/gnome_js_hello_world.png)
 
-# Docker package
+
+### Tutorial
+
+https://developer.gnome.org/gnome-devel-demos/stable/hellognome.js.html.en
+
+
+### Docker package
 
 TODO
 
